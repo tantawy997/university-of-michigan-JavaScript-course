@@ -1,5 +1,7 @@
 ## Interactivity with JavaScript from university of michigan
 
+## Peer-graded Assignment: Autocomplete with JavaScript
+
 #### Given the HTML and CSS code for a form with both shipping and billing information, write the JavaScript that can set and clear the fields in Billing Information.
 
 #### The code is provided here:
